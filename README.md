@@ -32,6 +32,8 @@ The steps for this project are divided into the following sections:
 3. Add Relevant User Inputs to the Streamlit Interface
 4. Test the PyChain Ledger by Storing Records
 
+After inputing the required information, click 'Add Block' to initiate the respective function and save a record inside a block in the chain.
+
 **Sample Blockchain Ledger Inputs**
 | Sender | Receiver | Amount |
 | ------ | -------- | ------ |
@@ -41,7 +43,7 @@ The steps for this project are divided into the following sections:
 | Pippin | Aragorn | 50 |
 | Legolas | Gollum | 60 | 
 
-#### Screenshots
+### Screenshots
 Successful deployment of this repository will yield results such as:
 
 **Verification: Streamlit Application Page & Block Inspector**
