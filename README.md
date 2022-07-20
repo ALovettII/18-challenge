@@ -44,14 +44,14 @@ The steps for this project are divided into the following sections:
 #### Screenshots
 Successful deployment of this repository will yield results such as:
 
-**Verification Streamlit Application Page:**
-![Application Page Verification]()
+**Verification: Streamlit Application Page & Block Inspector**
+![App Page Verification](https://github.com/ALovettII/18-challenge/blob/main/images/verify_application.png)
 
 **Verification: Block Details**
-![Blockchain Verification]()
+![Block Verification](https://github.com/ALovettII/18-challenge/blob/main/images/verify_blockchain.png)
 
 **Validation: Blockchain Validation Test**
-![Blockchain Validation]()
+![Blockchain Validation](https://github.com/ALovettII/18-challenge/blob/main/images/validate_blockchain.png)
 
 
 ## Contributors
