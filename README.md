@@ -14,7 +14,6 @@ This ledger should allow partner banks to conduct financial transactions (that i
 
 ## Installation Guide
 In your terminal:
-
 ```shell
 # Activate dev enviroment
 conda activate dev
@@ -24,4 +23,7 @@ pip install streamlit
 ```
 
 ## Usage
+
+## Contributors
+Created by Arthur Lovett
 
